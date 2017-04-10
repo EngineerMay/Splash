@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Splash Activity</string>
+
+    <string name="message">WELCOME TO THE SPLASH ACTIVITY</string>
+</resources>
